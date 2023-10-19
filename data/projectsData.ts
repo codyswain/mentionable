@@ -5,7 +5,14 @@ const projectsData = [
     Association's clinical guidelines, and the most popular wiki for emergency medicine, WIKEM. 
     `,
     imgSrc: '',
-    href: 'www.olly.health',
+    href: '',
+  },
+  {
+    title: 'Venmo for Stablecoins',
+    description: `Alice offered peer-to-peer transfers and a debit card for sending, spending, and earning algorithmic dollar-pegged digital currencies.
+    `,
+    imgSrc: '',
+    href: 'alice',
   },
   // {
   //   title: 'A Search Engine',
